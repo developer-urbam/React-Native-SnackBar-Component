@@ -171,6 +171,7 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
     left: 0,
     right: 0,
+    maxHeight:50,
     zIndex: 9999,
   },
   container: {
